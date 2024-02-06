@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (OS13_HTCOM.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ClassFactory.cpp
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM\Interface.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM\Interface.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  ComHT.cpp
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM\Interface.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM\Interface.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  dllmain.cpp
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM\dllmain.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM\dllmain.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM\Interface.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM\Interface.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  pch.cpp
+  Registry.cpp
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM\Registry.cpp(143,27): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Создание кода...
+     Создается библиотека C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\x64\Debug\OS14_HTCOM.lib и объект C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\x64\Debug\OS14_HTCOM.exp
+OS14_HTCOM.exp : warning LNK4070: директива /OUT:OS13_HTCOM.dll в .EXP отличается от имени выходного файла "C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\x64\Debug\OS14_HTCOM.dll"; директива игнорируется
+  OS13_HTCOM.vcxproj -> C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\x64\Debug\OS14_HTCOM.dll

@@ -1,0 +1,6 @@
+﻿  SP02_LIB.cpp
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab2\SP02_LIB\SP02_LIB.cpp(39): warning C4715: OS12::Adder::Add: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab2\SP02_LIB\SP02_LIB.cpp(55): warning C4715: OS12::Adder::Sub: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab2\SP02_LIB\SP02_LIB.cpp(71): warning C4715: OS12::Multiplier::Mul: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab2\SP02_LIB\SP02_LIB.cpp(90): warning C4715: OS12::Multiplier::Div: значение возвращается не при всех путях выполнения
+  SP02_LIB.vcxproj -> C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab2\x64\Debug\SP02_LIB.lib

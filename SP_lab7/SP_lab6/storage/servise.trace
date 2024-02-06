@@ -1,0 +1,10 @@
+Start service
+HT-Storage Start
+
+secSnapshotInterval: 
+4
+
+capacity: 
+2000
+Stop service
+Close ht

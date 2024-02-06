@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (OS13_STOP.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  OS13_STOP.cpp
+  OS13_STOP.vcxproj -> C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\x64\Debug\OS14_STOP.exe

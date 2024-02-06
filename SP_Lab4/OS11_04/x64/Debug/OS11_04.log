@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\nikit\Desktop\OS_Lab11\OS11_HTAPI\Element.h(22,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::Element", когда ни одна переменная не объявлена
+C:\Users\nikit\Desktop\OS_Lab11\OS11_HTAPI\HT.h(41,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::HtHandle", когда ни одна переменная не объявлена
+C:\Users\nikit\Desktop\OS_Lab11\OS11_04\main.cpp(37,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nikit\Desktop\OS_Lab11\OS11_04\main.cpp(43,8): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  OS11_04.vcxproj -> C:\Users\nikit\Desktop\OS_Lab11\x64\Debug\OS11_04.exe

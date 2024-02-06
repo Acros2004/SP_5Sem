@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Auth.cpp
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS14_HTAPI\Auth.cpp(24,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS14_HTAPI\Auth.cpp(76,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Element.cpp
+  HT.cpp
+  Создание кода...
+  OS14_HTAPI.vcxproj -> C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\x64\Debug\OS14_HTAPI.lib

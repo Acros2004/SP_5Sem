@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Element.cpp
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\OS11_HTAPI\Element.h(22,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::Element", когда ни одна переменная не объявлена
+  HT.cpp
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\OS11_HTAPI\Element.h(22,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::Element", когда ни одна переменная не объявлена
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\OS11_HTAPI\HT.h(41,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::HtHandle", когда ни одна переменная не объявлена
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\OS11_HTAPI\HT.cpp(363,4): warning C4297: ht::close: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\OS11_HTAPI\HT.cpp(363,4): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\OS11_HTAPI\HT.cpp(365,4): warning C4297: ht::close: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\OS11_HTAPI\HT.cpp(365,4): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\OS11_HTAPI\HT.cpp(367,4): warning C4297: ht::close: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\OS11_HTAPI\HT.cpp(367,4): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\OS11_HTAPI\HT.cpp(370,5): warning C4297: ht::close: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\OS11_HTAPI\HT.cpp(370,5): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  Создание кода...
+     Создается библиотека C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\x64\Debug\OS11_HTAPI.lib и объект C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\x64\Debug\OS11_HTAPI.exp
+  OS11_HTAPI.vcxproj -> C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_Lab4\x64\Debug\OS11_HTAPI.dll

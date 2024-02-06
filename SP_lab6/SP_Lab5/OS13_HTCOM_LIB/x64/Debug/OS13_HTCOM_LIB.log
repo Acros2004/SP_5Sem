@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (OS13_HTCOM_LIB.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  OS14_HTCOM_LIB.cpp
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM\Interface.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM\Interface.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  pch.cpp
+  Создание кода...
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM_LIB\OS14_HTCOM_LIB.cpp(49): warning C4715: OS13_HTCOM::HT::create: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM_LIB\OS14_HTCOM_LIB.cpp(91): warning C4715: OS13_HTCOM::HT::open: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM_LIB\OS14_HTCOM_LIB.cpp(70): warning C4715: OS13_HTCOM::HT::open: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM_LIB\OS14_HTCOM_LIB.cpp(114): warning C4715: OS13_HTCOM::HT::snap: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM_LIB\OS14_HTCOM_LIB.cpp(174): warning C4715: OS13_HTCOM::HT::remove: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM_LIB\OS14_HTCOM_LIB.cpp(154): warning C4715: OS13_HTCOM::HT::insert: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM_LIB\OS14_HTCOM_LIB.cpp(134): warning C4715: OS13_HTCOM::HT::close: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM_LIB\OS14_HTCOM_LIB.cpp(194): warning C4715: OS13_HTCOM::HT::get: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM_LIB\OS14_HTCOM_LIB.cpp(214): warning C4715: OS13_HTCOM::HT::update: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM_LIB\OS14_HTCOM_LIB.cpp(234): warning C4715: OS13_HTCOM::HT::getLastError: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM_LIB\OS14_HTCOM_LIB.cpp(272): warning C4715: OS13_HTCOM::Element::createGetElement: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM_LIB\OS14_HTCOM_LIB.cpp(292): warning C4715: OS13_HTCOM::Element::createInsertElement: значение возвращается не при всех путях выполнения
+C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\OS13_HTCOM_LIB\OS14_HTCOM_LIB.cpp(312): warning C4715: OS13_HTCOM::Element::createUpdateElement: значение возвращается не при всех путях выполнения
+  OS13_HTCOM_LIB.vcxproj -> C:\Users\nikit\Desktop\univer\3cource1sem\SP\SP_lab6\SP_Lab5\x64\Debug\OS14_HTCOM_LIB.lib
